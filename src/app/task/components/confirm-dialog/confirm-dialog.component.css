@@ -1,0 +1,22 @@
+.mat-dialog-container {
+  max-width: 400px; /* Ajusta el ancho máximo del diálogo */
+  margin: 20px auto; /* Centra el diálogo en el medio */
+  padding: 20px; /* Añade un espacio de relleno para que el contenido no esté pegado a los bordes */
+}
+
+.mat-dialog-title {
+  text-align: center; /* Centra el título del diálogo */
+}
+
+.mat-dialog-content {
+  text-align: justify; /* Justifica el contenido del diálogo */
+}
+
+.mat-dialog-actions {
+  justify-content: flex-end; /* Alinea los botones al final del diálogo */
+}
+
+/* Añade un espacio entre los botones */
+.spacer {
+  flex: 1;
+}

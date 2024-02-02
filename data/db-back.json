@@ -1,0 +1,70 @@
+{
+  "task": [
+    {
+      "id": "1",
+      "name": "Identificación",
+      "details": "Iniciar el proceso de comprensión y documentación de los elementos esenciales que deben abordarse en el proyecto",
+      "status": "done"
+    },
+    {
+      "id": "2",
+      "name": "Priorización ",
+      "details": "Establecer un orden jerárquico para abordar las tareas con mayor impacto o urgencia primero",
+      "status": "to do"
+    },
+    {
+      "id": "3",
+      "name": "Planificación y Estimacion",
+      "details": "Establecer la estructura y los parámetros para la ejecución exitosa del proyecto",
+      "status": "to do"
+    },
+    {
+      "id": "4",
+      "name": "Programación",
+      "details": "Traducir los requisitos y el diseño del sistema en código ejecutable",
+      "status": "to do"
+    },
+    {
+      "id": "5",
+      "name": "Determinación de la interconexión de actividades",
+      "details": "Entender cómo el progreso en una tarea puede afectar otras y gestionar eficientemente esas interconexiones",
+      "status": "to do"
+    },
+    {
+      "id": "6",
+      "name": "Asignación de recursos.",
+      "details": "Garantizar que los recursos adecuados estén disponibles en el momento y lugar correctos para la ejecución de las tareas",
+      "status": "to do"
+    },
+    {
+      "id": "7",
+      "name": "Implementación",
+      "details": "Poner en práctica los planes y comenzar la realización de las actividades del proyecto",
+      "status": "to do"
+    },
+    {
+      "id": "8",
+      "name": "Ejecución",
+      "details": "Avanzar de manera proactiva a través del proyecto, gestionando cualquier cambio y asegurando el cumplimiento de los objetivos",
+      "status": "to do"
+    },
+    {
+      "id": "9",
+      "name": "Revisión y retrospectiva",
+      "details": "Reflexionar sobre el progreso del proyecto y realizar ajustes según las lecciones aprendidas",
+      "status": "to do"
+    },
+    {
+      "id": "10",
+      "name": "Lanzamiento",
+      "details": "Presentar el resultado del proyecto al público o a los stakeholders y ponerlo en funcionamiento",
+      "status": "to do"
+    },
+    {
+      "id": "11",
+      "name": "Seguimiento y control",
+      "details": "Mantener una supervisión activa para asegurar que el proyecto se desarrolle según lo planeado y tomar medidas correctivas según sea necesario",
+      "status": "to do"
+    }
+  ]
+}
